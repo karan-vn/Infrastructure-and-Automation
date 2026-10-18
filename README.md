@@ -214,17 +214,20 @@ Review the proposed deletions and confirm when prompted.
 
 ## Screenshots
 
-
-
-Add screenshots showing:
-
-
-
 1\. Successful Terraform deployment and outputs.
+<img width="959" height="379" alt="Screenshot 2026-10-18 111837" src="https://github.com/user-attachments/assets/a1748a97-532c-4b0e-9c01-8b0ff3c9a8a0" />
+<img width="959" height="186" alt="Screenshot 2026-10-18 111945" src="https://github.com/user-attachments/assets/c8da4e88-9563-4a36-bde8-a8f2938dd901" />
+
 
 2\. The custom Nginx webpage accessible through the EC2 public IP.
 
+<img width="959" height="535" alt="Screenshot 2026-10-18 110410" src="https://github.com/user-attachments/assets/2f7c2ed6-c62d-47dc-b5aa-4fb4885e75d6" />
+
+
 3\. Successful Terraform destruction.
+<img width="557" height="41" alt="Screenshot 2026-10-18 111800" src="https://github.com/user-attachments/assets/ad447086-85d6-41fd-8898-555d40d6540f" />
+
+<img width="557" height="41" alt="Screenshot 2026-10-18 111800" src="https://github.com/user-attachments/assets/095951f9-0dcd-475e-86b7-d71017b604e2" />
 
 
 
