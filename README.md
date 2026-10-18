@@ -244,15 +244,11 @@ Add screenshots showing:
 
 \- Exposing Terraform outputs
 
-\- Managing infrastructure lifecycle with Terraform
+- Managing infrastructure lifecycle with Terraform
 
+## Author
 
-
-\## Author
-
-
-
-Add your name here.
+Karan Kumar
 
 
 
