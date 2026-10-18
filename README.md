@@ -1,8 +1,8 @@
-\# EC2 Nginx Deployment with Terraform
+# EC2 Nginx Deployment with Terraform
 
 
 
-\## Project Overview
+## Project Overview
 
 
 
@@ -14,7 +14,7 @@ The instance is configured automatically using EC2 user data, which installs Ngi
 
 
 
-\## Architecture
+## Architecture
 
 
 
@@ -34,7 +34,7 @@ The instance is configured automatically using EC2 user data, which installs Ngi
 
 
 
-\## Project Structure
+## Project Structure
 
 
 
@@ -58,7 +58,7 @@ terraform-nginx-ubuntu/
 
 
 
-\## Resources Created
+## Resources Created
 
 
 
@@ -80,7 +80,7 @@ Terraform also looks up the existing default VPC, default subnet, and Ubuntu AMI
 
 
 
-\## Prerequisites
+## Prerequisites
 
 
 
@@ -100,7 +100,7 @@ Terraform also looks up the existing default VPC, default subnet, and Ubuntu AMI
 
 
 
-\### 1. Initialize Terraform
+### 1. Initialize Terraform
 
 
 
@@ -112,7 +112,7 @@ terraform init
 
 
 
-\### 2. Format the configuration
+### 2. Format the configuration
 
 
 
@@ -124,7 +124,7 @@ terraform fmt
 
 
 
-\### 3. Validate the configuration
+### 3. Validate the configuration
 
 
 
@@ -136,7 +136,7 @@ terraform validate
 
 
 
-\### 4. Review the execution plan
+### 4. Review the execution plan
 
 
 
@@ -152,7 +152,7 @@ Review the proposed changes before proceeding.
 
 
 
-\### 5. Deploy the infrastructure
+### 5. Deploy the infrastructure
 
 
 
@@ -164,7 +164,7 @@ terraform apply tfplan
 
 
 
-\### 6. Retrieve the outputs
+### 6. Retrieve the outputs
 
 
 
@@ -192,7 +192,7 @@ Open the URL in a browser to verify the Nginx webpage.
 
 
 
-\## Cleanup
+## Cleanup
 
 
 
@@ -212,7 +212,7 @@ Review the proposed deletions and confirm when prompted.
 
 
 
-\## Screenshots
+## Screenshots
 
 
 
@@ -228,7 +228,7 @@ Add screenshots showing:
 
 
 
-\## Learning Outcomes
+## Learning Outcomes
 
 
 
@@ -244,7 +244,7 @@ Add screenshots showing:
 
 \- Exposing Terraform outputs
 
-- Managing infrastructure lifecycle with Terraform
+\- Managing infrastructure lifecycle with Terraform
 
 ## Author
 
