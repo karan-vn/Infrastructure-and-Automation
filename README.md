@@ -225,9 +225,10 @@ Review the proposed deletions and confirm when prompted.
 
 
 3\. Successful Terraform destruction.
-<img width="557" height="41" alt="Screenshot 2026-10-18 111800" src="https://github.com/user-attachments/assets/ad447086-85d6-41fd-8898-555d40d6540f" />
 
-<img width="557" height="41" alt="Screenshot 2026-10-18 111800" src="https://github.com/user-attachments/assets/095951f9-0dcd-475e-86b7-d71017b604e2" />
+<img width="913" height="436" alt="image" src="https://github.com/user-attachments/assets/6c88a63e-d1f5-44c0-ad86-4487682e1482" />
+
+<img width="704" height="311" alt="Screenshot 2026-10-18 112315" src="https://github.com/user-attachments/assets/381dd8c9-e7ee-4540-b9fc-1d901b267a7a" />
 
 
 
