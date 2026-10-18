@@ -18,19 +18,19 @@ The instance is configured automatically using EC2 user data, which installs Ngi
 
 
 
-\- \*\*Cloud Provider:\*\* AWS
+- \*\*Cloud Provider:\*\* AWS
 
-\- \*\*Region:\*\* Asia Pacific (Mumbai) — `ap-south-1`
+- \*\*Region:\*\* Asia Pacific (Mumbai) — `ap-south-1`
 
-\- \*\*Operating System:\*\* Ubuntu 20.04 LTS
+- \*\*Operating System:\*\* Ubuntu 20.04 LTS
 
-\- \*\*Instance Type:\*\* `t2.micro` as required by the assignment
+- \*\*Instance Type:\*\* `t2.micro` as required by the assignment
 
-\- \*\*Networking:\*\* Existing default VPC and subnet
+- \*\*Networking:\*\* Existing default VPC and subnet
 
-\- \*\*Web Server:\*\* Nginx
+- \*\*Web Server:\*\* Nginx
 
-\- \*\*Infrastructure as Code:\*\* Terraform
+- \*\*Infrastructure as Code:\*\* Terraform
 
 
 
